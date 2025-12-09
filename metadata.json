@@ -1,0 +1,5 @@
+{
+  "name": "DreamLines: AI Coloring Book",
+  "description": "Generate custom, high-quality coloring books for children using Gemini 3 Pro with Thinking Mode and advanced image generation.",
+  "requestFramePermissions": []
+}
